@@ -39,7 +39,7 @@ un documento HTML semántico sin estilos CSS a partir de una **referencia visual
 
 > A continuación, se presenta la imagen de referencia del blog que los estudiantes deben replicar:
 
-📎 **[Vista previa del blog IA](./referencia.png)**
+![Vista previa del blog IA](./referencia.png)
 
 ---
 
